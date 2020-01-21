@@ -1,5 +1,4 @@
 [![Docker repository](https://img.shields.io/docker/automated/wernight/ngrok.svg)](https://hub.docker.com/r/wernight/ngrok/) [![Build passing](https://img.shields.io/docker/build/wernight/ngrok.svg)](https://hub.docker.com/r/wernight/ngrok/) [![Codenvy badge](http://beta.codenvy.com/factory/resources/codenvy-contribute.svg)](http://beta.codenvy.com/f?url=https://github.com/wernight/docker-ngrok 'Start development on Codenvy')
-
 # Supported tags and respective `Dockerfile` links
 
   * [`latest`](https://github.com/wernight/docker-ngrok/blob/master/Dockerfile) [![](https://images.microbadger.com/badges/image/wernight/ngrok.svg)](http://microbadger.com/images/wernight/ngrok "Get your own image badge on microbadger.com")
